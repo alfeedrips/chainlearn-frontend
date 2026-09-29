@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/validation-unit-tests"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/validation-unit-tests": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/validation-unit-tests"
+  ]
+}
